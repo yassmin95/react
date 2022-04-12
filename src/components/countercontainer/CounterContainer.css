@@ -1,0 +1,11 @@
+
+
+.container{
+    background-color: rgba(211, 206, 206, 0.822);
+    border: 2px solid black;
+    border-radius: 12px; 
+    color: #000000;
+    text-align-last:center ;
+    padding:50px;
+    margin-top: 50px;
+}

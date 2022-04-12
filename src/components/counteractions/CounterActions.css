@@ -1,0 +1,42 @@
+.add{
+    width: 100px;
+    height: 50px;
+    border: none;
+    color: white;
+    font-size: 20px;
+    background-color: rgb(255, 4, 4);
+    border-radius: 10px;
+    font-weight: bolder;
+    display: block;
+    
+}
+
+.sub{
+    width: 100px;
+    height: 50px;
+    border: none;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    background-color: rgb(88, 42, 255);
+    border-radius: 10px;
+    font-weight: bolder;
+    display:grid;
+    
+}
+.add:hover{
+    background-color: rgba(255, 4, 4, 0.596);
+}
+.sub:hover{
+    background-color: rgba(88, 42, 255, 0.575);
+}
+
+
+.sub{
+   color: rgb(255, 255, 255);
+
+}
+
+.add{
+    color: rgb(252, 252, 252);
+ 
+ }
